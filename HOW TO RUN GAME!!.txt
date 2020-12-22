@@ -1,0 +1,7 @@
+To play game, go inside the 'Among Us' folder, right click and run 'Among Us' as administrator
+
+If you get any missing dll errors, go inside the _Redist folder and install all 6 programs in the folder
+
+Game is updated to v2020.12.9s
+
+If you don't see any pets in the game, close the game and launch it again with steam running in the background
